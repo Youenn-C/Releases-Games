@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\2 - Cours\\2 - ann\u00E9e_n\u00B02\\A - Projet Perso\\4 - Launcher\\Launcher\\",
+  "WorkspaceRootPath": "E:\\2 - Cours\\2 - ann\u00E9e_n\u00B02\\A - Projet Perso\\4 - Launcher\\Launcher_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3928E5CF-79A2-4C89-920F-5EE29F13837D}|Launcher\\Launcher.csproj|e:\\2 - cours\\2 - ann\u00E9e_n\u00B02\\a - projet perso\\4 - launcher\\launcher\\launcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3928E5CF-79A2-4C89-920F-5EE29F13837D}|Launcher\\Launcher.csproj|solutionrelative:launcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3928E5CF-79A2-4C89-920F-5EE29F13837D}|Launcher\\Launcher.csproj|e:\\2 - cours\\2 - ann\u00E9e_n\u00B02\\a - projet perso\\4 - launcher\\launcher_project\\launcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3928E5CF-79A2-4C89-920F-5EE29F13837D}|Launcher\\Launcher.csproj|solutionrelative:launcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3928E5CF-79A2-4C89-920F-5EE29F13837D}|Launcher\\Launcher.csproj|e:\\2 - cours\\2 - ann\u00E9e_n\u00B02\\a - projet perso\\4 - launcher\\launcher\\launcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3928E5CF-79A2-4C89-920F-5EE29F13837D}|Launcher\\Launcher.csproj|solutionrelative:launcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3928E5CF-79A2-4C89-920F-5EE29F13837D}|Launcher\\Launcher.csproj|e:\\2 - cours\\2 - ann\u00E9e_n\u00B02\\a - projet perso\\4 - launcher\\launcher_project\\launcher\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3928E5CF-79A2-4C89-920F-5EE29F13837D}|Launcher\\Launcher.csproj|solutionrelative:launcher\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3928E5CF-79A2-4C89-920F-5EE29F13837D}|Launcher\\Launcher.csproj|e:\\2 - cours\\2 - ann\u00E9e_n\u00B02\\a - projet perso\\4 - launcher\\launcher_project\\launcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3928E5CF-79A2-4C89-920F-5EE29F13837D}|Launcher\\Launcher.csproj|solutionrelative:launcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,10 +31,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\2 - Cours\\2 - ann\u00E9e_n\u00B02\\A - Projet Perso\\4 - Launcher\\Launcher_Project\\Launcher\\App.xaml",
+              "RelativeDocumentMoniker": "Launcher\\App.xaml",
+              "ToolTip": "E:\\2 - Cours\\2 - ann\u00E9e_n\u00B02\\A - Projet Perso\\4 - Launcher\\Launcher_Project\\Launcher\\App.xaml",
+              "RelativeToolTip": "Launcher\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T12:16:39.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\2 - Cours\\2 - ann\u00E9e_n\u00B02\\A - Projet Perso\\4 - Launcher\\Launcher\\Launcher\\MainWindow.xaml",
+              "DocumentMoniker": "E:\\2 - Cours\\2 - ann\u00E9e_n\u00B02\\A - Projet Perso\\4 - Launcher\\Launcher_Project\\Launcher\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Launcher\\MainWindow.xaml",
-              "ToolTip": "E:\\2 - Cours\\2 - ann\u00E9e_n\u00B02\\A - Projet Perso\\4 - Launcher\\Launcher\\Launcher\\MainWindow.xaml",
+              "ToolTip": "E:\\2 - Cours\\2 - ann\u00E9e_n\u00B02\\A - Projet Perso\\4 - Launcher\\Launcher_Project\\Launcher\\MainWindow.xaml",
               "RelativeToolTip": "Launcher\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-05T19:17:30.861Z",
@@ -38,11 +54,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\2 - Cours\\2 - ann\u00E9e_n\u00B02\\A - Projet Perso\\4 - Launcher\\Launcher\\Launcher\\MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\2 - Cours\\2 - ann\u00E9e_n\u00B02\\A - Projet Perso\\4 - Launcher\\Launcher_Project\\Launcher\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Launcher\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\2 - Cours\\2 - ann\u00E9e_n\u00B02\\A - Projet Perso\\4 - Launcher\\Launcher\\Launcher\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\2 - Cours\\2 - ann\u00E9e_n\u00B02\\A - Projet Perso\\4 - Launcher\\Launcher_Project\\Launcher\\MainWindow.xaml.cs",
               "RelativeToolTip": "Launcher\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

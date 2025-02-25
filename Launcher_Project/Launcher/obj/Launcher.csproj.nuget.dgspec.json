@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2 - Cours\\2 - année_n°2\\A - Projet Perso\\4 - Launcher\\Launcher\\Launcher\\Launcher.csproj": {}
+    "E:\\2 - Cours\\2 - année_n°2\\A - Projet Perso\\4 - Launcher\\Launcher_Project\\Launcher\\Launcher.csproj": {}
   },
   "projects": {
-    "E:\\2 - Cours\\2 - année_n°2\\A - Projet Perso\\4 - Launcher\\Launcher\\Launcher\\Launcher.csproj": {
+    "E:\\2 - Cours\\2 - année_n°2\\A - Projet Perso\\4 - Launcher\\Launcher_Project\\Launcher\\Launcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2 - Cours\\2 - année_n°2\\A - Projet Perso\\4 - Launcher\\Launcher\\Launcher\\Launcher.csproj",
+        "projectUniqueName": "E:\\2 - Cours\\2 - année_n°2\\A - Projet Perso\\4 - Launcher\\Launcher_Project\\Launcher\\Launcher.csproj",
         "projectName": "Launcher",
-        "projectPath": "E:\\2 - Cours\\2 - année_n°2\\A - Projet Perso\\4 - Launcher\\Launcher\\Launcher\\Launcher.csproj",
+        "projectPath": "E:\\2 - Cours\\2 - année_n°2\\A - Projet Perso\\4 - Launcher\\Launcher_Project\\Launcher\\Launcher.csproj",
         "packagesPath": "C:\\Users\\y.chapelliere\\.nuget\\packages\\",
-        "outputPath": "E:\\2 - Cours\\2 - année_n°2\\A - Projet Perso\\4 - Launcher\\Launcher\\Launcher\\obj\\",
+        "outputPath": "E:\\2 - Cours\\2 - année_n°2\\A - Projet Perso\\4 - Launcher\\Launcher_Project\\Launcher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\y.chapelliere\\AppData\\Roaming\\NuGet\\NuGet.Config",
