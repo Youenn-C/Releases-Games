@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Launcher</id>
+    <version>1.0.0</version>
+    <authors>Launcher</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\2 - Cours\2 - année_n°2\A - Projet Perso\4 - Launcher\Launcher\Launcher\bin\Debug\net8.0-windows\Launcher.runtimeconfig.json" target="lib\net8.0-windows7.0\Launcher.runtimeconfig.json" />
+    <file src="E:\2 - Cours\2 - année_n°2\A - Projet Perso\4 - Launcher\Launcher\Launcher\bin\Debug\net8.0-windows\Launcher.dll" target="lib\net8.0-windows7.0\Launcher.dll" />
+  </files>
+</package>
