@@ -43,7 +43,7 @@ namespace Launcher
 
         private void LaunchGame(object sender, RoutedEventArgs e)
         {
-            string gamePath = "C:\\Users\\y.chapelliere\\Desktop\\Test_Launcher\\Sapon_A_Soap_Story\\Sapon, A Soap Story"; // Remplace avec le vrai chemin
+            string gamePath = "C:\\Users\\youen\\Desktop\\Test_Launcher\\Sapon_A_Soap_Story"; // Remplace avec le vrai chemin
 
             if (File.Exists(gamePath))
             {
@@ -60,7 +60,7 @@ namespace Launcher
 public class GameUpdater
 {
     private static readonly string downloadUrl = "https://github.com/Youenn-C/Releases-Games/releases/latest/download/sapon_a_soap_story.zip";
-    private static readonly string extractPath = "C:\\Users\\y.chapelliere\\Desktop\\Test_Launcher\\Sapon_A_Soap_Story";
+    private static readonly string extractPath = "C:\\Users\\youen\\Desktop\\Test_Launcher\\Sapon_A_Soap_Story";
     private static readonly string zipPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "sapon_a_soap_story.zip");
 
 
@@ -146,8 +146,8 @@ public class GameUpdater
 
 public class GitHubUpdater
 {
-    private static readonly string hashUrl = "https://raw.githubusercontent.com/Youenn-C/Releases-Games/refs/heads/main/hash.txt";
-    private static readonly string localZipPath = "C:\\Users\\y.chapelliere\\Desktop\\Test_Launcher";
+    private static readonly string hashUrl = "https://raw.githubusercontent.com/Youenn-C/Releases-Games/refs/heads/main/Releases-Games/Sapon_A_Soap_Story/sapon_a_soap_story_hash.txt";
+    private static readonly string localZipPath = "C:\\Users\\youen\\Desktop\\Test_Launcher\\Sapon_A_Soap_Story";
 
     public static async Task<bool> IsUpdateAvailable()
     {

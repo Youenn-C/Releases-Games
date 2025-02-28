@@ -18,18 +18,17 @@
         </!-->
         <Rectangle HorizontalAlignment="Left" Height="784" Stroke="Black" VerticalAlignment="Center" Width="115" OpacityMask="Black" Fill="Black"/>
 
-        <Button x:Name="Button_01" Margin="0,0,1365,667" Width="115" Height="115">
+        <Button x:Name="Button_01" Margin="0,0,1365,669" Width="115" Height="115">
             <Image x:Name ="Sapon" HorizontalAlignment="Left" Height="70" VerticalAlignment="Top" Width="70" Source="/Icon.png"/>
         </Button>
 
-        <Button x:Name="Button_02" Margin="0,125,1365,667" Width="115" Height="115">
+        <Button x:Name="Button_02" Margin="0,120,1365,549" Width="115" Height="115">
             <Image x:Name ="ImageTestDeux" HorizontalAlignment="Left" Height="70" VerticalAlignment="Top" Width="70" Source="/Icon.png"/>
         </Button>
 
-        <Button x:Name="Button_03" Margin="0,250,1365,667" Width="115" Height="115">
+        <Button x:Name="Button_03" Margin="0,240,1365,429" Width="115" Height="115">
             <Image x:Name ="ImageTestTrois" HorizontalAlignment="Left" Height="70" VerticalAlignment="Top" Width="70" Source="/Icon.png"/>
         </Button>
-
 
         <Button Content="Vérifier les mises à jour" Click="CheckForUpdates" Margin="202,566,896,120" FontSize="30"/>
 
@@ -37,6 +36,9 @@
 
         <Button Content="Lancer le jeu" Name="LaunchButton" Click="LaunchGame" Margin="1000,566,118,120" FontSize="30"/>
 
+
+
+        <!--Button Content="S" Name="Settings" Click="ToggleSettingsWindows" Margin="1408,10,10,715" FontSize="30"/-->
 
 
     </Grid>
