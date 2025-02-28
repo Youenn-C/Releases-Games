@@ -1,0 +1,5 @@
+$hash = Get-FileHash -Path "C:\Chemin\Vers\jeu.zip" -Algorithm SHA256
+$hash.Hash | Out-File -Encoding ASCII "C:\Chemin\Vers\hash.txt"
+
+
+
